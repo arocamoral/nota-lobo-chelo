@@ -3,3 +3,9 @@ Estudio técnico-experimental del fenómeno acústico de la *nota lobo* en el vi
 - Herramientas: MATLAB, ARTA, tarjeta de sonido TASCAM, acelerómetro Bruel & Kjaer, micrófono Behringer.
 
 ***Trabajo realizado por Alejandro Rocamora Latorre y Antonio Muñoz Sanchis.***
+
+# Proyecto de Planta Solar Fotovoltaica en Sudáfrica
+Diseño y cálculo técnico de una planta solar fotovoltaica en Kroonstad, Sudáfrica. Incluye dimensionamiento de sistemas, estimación de generación y presupuesto de obra.
+- Herramientas: Arquimedes, AutoCAD.
+
+***Trabajo realizado por Alejandro Rocamora Latorre, Daniel Esteban Robles y Antonio Muñoz Sanchis.***
